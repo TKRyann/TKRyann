@@ -1,25 +1,18 @@
 ## Olá! Eu sou Kherlysson Ryann 👋  
-**Desenvolvedor Web em formação | Técnico em Suporte de TI**
+**Desenvolvedor Full Stack em formação | Técnico em Suporte de TI**
 
-Formado em **Análise e Desenvolvimento de Sistemas**, com experiência em suporte técnico e foco atual em **Desenvolvimento Web Frontend**, utilizando HTML, CSS e JavaScript.
+Formado em **Análise e Desenvolvimento de Sistemas**, com experiência em suporte técnico e foco atual em **Desenvolvimento Full Stack**, utilizando HTML, CSS, JavaScript e Java.
 
 ---
 
 ### 📌 Projetos em destaque
-- 🔹 **Code Geek** – Projeto principal focado em desenvolvimento web  
-  👉 Repositório: https://github.com/TKRyann/Code-Geek
+- 🔹 **Doces da tia** – Projeto principal focado em desenvolvimento web  
+  👉 Repositório: [https://github.com/TKRyann/landingdoces](https://github.com/TKRyann/landingdoces)
 
-- 🔹 **Meu Portfólio** – Portfólio pessoal para apresentação de projetos  
-  👉 Repositório: https://github.com/TKRyann/Meu-Portifolio
+- 🔹 **Linktree Doces da tia** – Site de links pessoais para doceria   
+  👉 Repositório: [https://github.com/TKRyann/linktree](http://github.com/TKRyann/linktree)
 
 ---
-
-<div align="center">
-  <a href="https://github.com/TKRyann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TKRyann&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKRyann&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
 
 ---
 
@@ -31,6 +24,8 @@ Formado em **Análise e Desenvolvimento de Sistemas**, com experiência em supor
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TK-JS" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TK-JAVA" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
 ---
